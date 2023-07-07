@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mapa"
+        android:icon="@drawable/baseline_map_24"
+        android:title="Mapa" />
+    <item
+        android:id="@+id/camara"
+        android:icon="@drawable/baseline_camera_24"
+        android:title="Camara" />
+    <item
+        android:id="@+id/info"
+        android:icon="@drawable/baseline_info_24"
+        android:title="Info" />
+</menu>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LogiTech</string>
+    <string name="informacion">Logitech es una empresa suiza especializada en el diseño y fabricación de periféricos y dispositivos electrónicos. Fundada en 1981, Logitech se ha convertido en uno de los principales fabricantes de teclados, ratones, cámaras web, auriculares, altavoces y otros accesorios para computadoras y dispositivos móviles. Sus productos se caracterizan por combinar innovación tecnológica, calidad y facilidad de uso. Logitech también ha incursionado en el mercado de los dispositivos de juego, con una línea de productos especialmente diseñados para gamers. La empresa tiene presencia global y es reconocida por su compromiso con la excelencia y la satisfacción del cliente</string>
+    <string name="version">Version 2.0.0</string>
+    <string name="API_KEY">AIzaSyCnsvz_LfJ-TA2w8MI4-ZpSNmISFAd5bY8</string>
+</resources>
